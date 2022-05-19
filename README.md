@@ -54,5 +54,5 @@ Run the code with this command:
 python3 weather_publisher.py
 ```
 
-If everything works, your Arduino displays the current feel temperature!
+That's it, your Arduino displays the current feel temperature!
 
